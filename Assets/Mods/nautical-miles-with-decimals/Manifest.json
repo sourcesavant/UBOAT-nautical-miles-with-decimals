@@ -1,0 +1,14 @@
+{
+  "name": "Nautical Miles with decimals",
+  "version": "1.0",
+  "description": "Adds decimal places to Nautical Miles on the map.",
+  "author": "Rogo",
+  "supportedGameVersions": [
+    "2024.1 (full release)\npatch 9"
+  ],
+  "assemblyName": "nautical-miles-with-decimals",
+  "permissions": [
+    "Reflection"
+  ],
+  "steamFileId": 3312489054
+}
